@@ -2,7 +2,7 @@
 Redis哨兵集群快速启动。
 
 ```
-https://github.com/liuhaoyang/redis-sentinels-starter.git
+git clone https://github.com/liuhaoyang/redis-sentinels-starter.git
 cd redis-sentinels-starter
 sudo sh redis-sentinels-starter.sh
 ```
