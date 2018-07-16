@@ -2,7 +2,9 @@
 Redis哨兵集群快速启动。
 
 ```
-sh redis-sentinels-starter.sh
+https://github.com/liuhaoyang/redis-sentinels-starter.git
+cd redis-sentinels-starter
+sudo sh redis-sentinels-starter.sh
 ```
 
 启动 
